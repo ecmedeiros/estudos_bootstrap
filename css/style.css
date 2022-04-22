@@ -1,0 +1,15 @@
+.navbar {
+    background-color: lightblue;
+}
+
+.navbar-brand{
+    padding-left: 5em;
+}
+
+.quem-somos{
+    background-color: lightyellow;
+}
+
+.margin {
+    padding-top: 30px;
+}
